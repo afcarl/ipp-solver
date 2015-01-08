@@ -13,7 +13,7 @@ Subject to  g1(x1, x2, ..., xn) <= 0
             x1, x2, ..., xn integer
 ```
 
-where each `xi` takes finite integer values, and the objective function `f(x1,x2,...,xn)`, and each of the constraints `gj(x1,x2,...,xn)` are polynomials on `x1,x2,...,x`
+where each `xi` takes finite integer values, and the objective function `f(x1,x2,...,xn)`, and each of the constraints `gj(x1,x2,...,xn)` are polynomials on `x1,x2,...,xn`
 
 ********************************************************************************
 
