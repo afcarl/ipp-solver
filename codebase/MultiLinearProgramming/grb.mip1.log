@@ -1,0 +1,13 @@
+Optimize a model with 2 rows, 3 columns and 5 nonzeros
+Found heuristic solution: objective 2
+Presolve removed 2 rows and 3 columns
+Presolve time: 0.00s
+
+Explored 0 nodes (0 simplex iterations) in 0.01 seconds
+Thread count was 1 (of 8 available processors)
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 3.000000000000e+00, best bound 3.000000000000e+00, gap 0.0%
+
+Gurobi 5.5.0 (mac64) logging started Tue Jan  7 16:33:52 2014
+
